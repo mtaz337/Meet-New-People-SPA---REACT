@@ -5,4 +5,5 @@
 Beginner Level React SPA Project
 
 For Running the Project: got to Terminal and Write the following commands
-npm install && npm start
+
+**npm install && npm start**
